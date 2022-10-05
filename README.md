@@ -26,6 +26,14 @@
 1. git log --oneline
     - To check if all branches are loking at the same commit or not.
 2. git branch feature1
-    - Create a branch named feature1
+    - Create a branch named feature1. This will point to the local  commit point.
 3. git switch feature1
     - Switches to the branch- feature1.
+4. git merge feature1
+    - Merge the main branch and feature1 branch. To do this you must on main branch.
+5. git branch -d feature1
+    - Delete the branch feature1. This can be done only once the changes are merged with main branch.
+6. git branch --merged
+    - Shows the branch which are merged.
+7. git branch --no-merged
+    - Shows the branch which are not merged.
