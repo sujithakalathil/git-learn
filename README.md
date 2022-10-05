@@ -25,4 +25,7 @@
 
 1. git log --oneline
     - To check if all branches are loking at the same commit or not.
-2. 
+2. git branch feature1
+    - Create a branch named feature1
+3. git switch feature1
+    - Switches to the branch- feature1.
