@@ -14,3 +14,5 @@
     - Register the remote repository with local repository.
 7. git push -u origin main
     - Push the changes from local repository to remote repository.
+8. git diff {file_name}
+    - Shows diffrences between files in working folder and staging area.
