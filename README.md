@@ -1,5 +1,5 @@
 # GIT-LEARN
-## Commands
+## 1. Commands
 1. git init
     - Initialize the local git repository.
 2. git add -A
@@ -18,3 +18,11 @@
     - Shows diffrences between files in working folder and staging area.
 9. git diff --staged {file name}
     - Shows diffrences between files in staging area and local repository.
+10. git branch -M main
+    -  Renames the main branch as 'main'. This should be done soon after 'git init' is fired.
+
+## 2. Branching & Merging
+
+1. git log --oneline
+    - To check if all branches are loking at the same commit or not.
+2. 
