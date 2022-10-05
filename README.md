@@ -37,3 +37,5 @@
     - Shows the branch which are merged.
 7. git branch --no-merged
     - Shows the branch which are not merged.
+8. git log --all --oneline --graph
+    - Shows the graphical representation of all branches and commit points.

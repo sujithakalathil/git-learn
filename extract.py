@@ -1,2 +1,2 @@
 import os
-os.path.join("abcd","xyz")
+print("Hello World")
