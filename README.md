@@ -16,3 +16,5 @@
     - Push the changes from local repository to remote repository.
 8. git diff {file_name}
     - Shows diffrences between files in working folder and staging area.
+9. git diff --staged {file name}
+    - Shows diffrences between files in staging area and local repository.
