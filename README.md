@@ -39,3 +39,5 @@
     - Shows the branch which are not merged.
 8. git log --all --oneline --graph
     - Shows the graphical representation of all branches and commit points.
+9. git rm file1
+    - Removes the file from staging and working directory.
