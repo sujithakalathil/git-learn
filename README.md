@@ -39,5 +39,4 @@
     - Shows the branch which are not merged.
 8. git log --all --oneline --graph
     - Shows the graphical representation of all branches and commit points.
-9. git log --oneline --all --stat   
-    - Show the commit points and the stats.
+
