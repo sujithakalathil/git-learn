@@ -40,3 +40,11 @@
 8. git log --all --oneline --graph
     - Shows the graphical representation of all branches and commit points.
 
+## 3. Initial Steps
+echo "# gmg-moengage" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sujithakalathil/gmg-moengage.git
+git push -u origin main
